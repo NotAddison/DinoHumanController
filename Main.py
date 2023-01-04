@@ -23,7 +23,7 @@ header_thickness = 2            # Header Font Thickness
 header_color = (255,255,255)    # Header Font Color
 
 debug = True;                  # Show debugging stats
-debug_fontSc          le  = 0.5          # Show debugging stats
+debug_fontScale  = 0.5          # Show debugging stats
 debug_thickness = 1;            # Thickness of debugging text
 debug_Colour = (77, 40, 225)    # Colour of debugging text
 
